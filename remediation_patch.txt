@@ -1,0 +1,5 @@
+# Update the websocket-extensions gem to version 0.1.5 or later
+gem update websocket-extensions
+
+# If the above command doesn't work, try specifying the version:
+gem install websocket-extensions -v '>=0.1.5'
