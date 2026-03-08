@@ -1,0 +1,5 @@
+# No automated remediation available for this vulnerability.
+# Please upgrade the rails version to >= 5.2.4.3 or >= 6.0.3.1
+# or apply the patch provided by the rails team.
+# Refer to the following advisory for more information:
+# https://groups.google.com/g/rubyonrails-security/c/vvj3J5yj-eI
